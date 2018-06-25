@@ -7,5 +7,6 @@ public class HelloWorldTest{
 	@Test
 	public void testHello(){
 		Assert.assertEquals("Hello!World!",New HelloWorld.sayHello());
+		System.out.println("This is the added line!");
 	}
 }
