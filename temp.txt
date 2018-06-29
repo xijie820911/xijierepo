@@ -8,5 +8,6 @@ public class HelloWorldTest{
 	public void testHello(){
 		Assert.assertEquals("Hello!World!",New HelloWorld.sayHello());
 		System.out.println("This is the added line!");
+		System.out.println("This is the added line on 2018/6/29!");
 	}
 }
